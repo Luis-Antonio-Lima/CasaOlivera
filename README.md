@@ -59,3 +59,6 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados.
 #### Primeiro diagrama
 
 !["Diagrama casa oliveira"](Diagrama.png)
+
+#### Esquema de tabelas para o banco de dados
+!["Esquema casa oliveira excel"](EsquemaCasaOlivera.png)
